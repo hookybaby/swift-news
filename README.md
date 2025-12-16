@@ -2,6 +2,17 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# December 16, 2025
+[Swift News - YouTube Video](https://youtu.be/EIsrS4bvWPQ)  
+
+[The Year SwiftUI Died](https://blog.jacobstechtavern.com/p/the-year-swiftui-died)  
+[Apple Liquid Glass Design Gallery](https://developer.apple.com/design/new-design-gallery/)  
+[Optimize Your App’s Speed and Efficiency](https://antongubarenko.substack.com/p/optimize-your-apps-speed-and-efficiency)  
+[SwiftUI Performance Explained (YouTube Video)](https://www.youtube.com/watch?v=yXAQTIKR8fk)  
+[Swift Student Challenge](https://developer.apple.com/swift-student-challenge/)  
+[Indie, Alone, and Figuring It Out](https://danijelavrzan.com/posts/2025/11/indie-dev/)  
+[100 Indie App Tips](https://x.com/Siron93/status/1990410583024308449)
+
 # December 2, 2025
 [Swift News - YouTube Video](https://youtu.be/YCRvVfDGQuY)  
 
