@@ -2,6 +2,15 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# December 30, 2025
+[Swift News - YouTube Video](https://youtu.be/EIsrS4bvWPQ)  
+
+[Shipping at Inference Speed](https://steipete.me/posts/2025/shipping-at-inference-speed)  
+[What’s New in Swift — December 2025](https://www.swift.org/blog/whats-new-in-swift-december-2025/)  
+[F***ing Approachable Swift Concurrency](https://fuckingapproachableswiftconcurrency.com/en/)  
+[Swift 6 and Strict Concurrency](https://calcopilot.app/blog/posts/swift-6-and-strict-concurrency/)  
+[Search Results Ad Placements](https://ads.apple.com/app-store/help/ad-placements/0082-search-results#ntf)
+
 # December 16, 2025
 [Swift News - YouTube Video](https://youtu.be/EIsrS4bvWPQ)  
 
