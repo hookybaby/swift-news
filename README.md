@@ -2,6 +2,17 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# February 12, 2026
+[Swift News - YouTube Video](https://youtu.be/_80oGwJQIjs)  
+
+[Xcode 26.3 Unlocks the Power of Agentic Coding](https://www.apple.com/newsroom/2026/02/xcode-26-point-3-unlocks-the-power-of-agentic-coding/)  
+[Agentic Coding in Xcode 26.3](https://www.youtube.com/watch?v=oV6mC8Rt1kY)  
+[What’s New in Xcode 26.3](https://www.youtube.com/watch?v=U1WM3ALwQX8)  
+[iOS 26 Market Share](https://telemetrydeck.com/survey/apple/iOS/majorSystemVersions/)  
+[AI Anxiety](https://indieappdevs.substack.com/p/indie-app-devs-14)  
+[iOS Craft Differentiator](https://x.com/everton_dev/status/2013639289926562098)  
+[Detail — UI & Interaction Design Inspiration](https://detail.design/)
+
 # December 30, 2025
 [Swift News - YouTube Video](https://www.youtube.com/watch?v=4c_1Tebf3PM)  
 
