@@ -2,6 +2,17 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# June 5, 2026
+[Swift News - YouTube Video](https://youtu.be/v93pF-zmU_M)  
+
+[WWDC26](https://developer.apple.com/wwdc26/)  
+[Bitrig Hackathon Registration](https://events.ycombinator.com/bitrighacks-june2026)  
+[2026 Apple Design Awards](https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/)  
+[Swift Mentorship Program](https://www.swift.org/mentorship/)  
+[Thoughts on Slowing the F*** Down](https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/)  
+[Talking Liquid Glass with Apple](https://captainswiftui.substack.com/p/talking-liquid-glass-with-apple)  
+[App Store Connect Analytics](https://developer.apple.com/app-store-connect/analytics/)
+
 # March 26, 2026
 [Swift News - YouTube Video](https://youtu.be/VU-NiioUpxg)  
 
