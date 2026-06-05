@@ -1,6 +1,6 @@
 Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Sean Allen - YouTube Channel") where he shares the latest news, articles, videos, podcasts, etc... from the world of Swift and iOS Development.  
 
-Swift News releases about once a week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
+Swift News releases about every other week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
 # June 5, 2026
 [Swift News - YouTube Video](https://youtu.be/v93pF-zmU_M)  
