@@ -2,6 +2,21 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about every other week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# June 17, 2026
+[Swift News - YouTube Video](https://youtu.be/SY9NqW6z8gs)  
+
+[Apple Newsroom - Xcode 27](https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/)  
+[Luka Bernardi SwiftUI Skills Tweet](https://x.com/luka_bernardi/status/2064125324485390383)  
+[Eduardo Sanchez Xcode 27 Tweet](https://x.com/edwardsanchez/status/2065622504987824253)  
+[Sean Allen Reoderable Tweet](https://x.com/seanallen_dev/status/2064131111467573451)  
+[Apple Newsroom - Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/)  
+[Daniel Storm SF Symbols Tweet](https://x.com/DanielStormApps/status/2064692549978141156)  
+[WWDC26 SwiftUI for Beginners Group Lab Q&A](https://antongubarenko.substack.com/p/wwdc26-swiftui-for-beginners-group)  
+[WWDC26 SwiftUI Group Lab Q&A](https://antongubarenko.substack.com/p/wwdc26-swiftui-group-lab-q-and-a)  
+[WWDC26 Coding Intelligence Group Lab Q&A](https://antongubarenko.substack.com/p/wwdc26-coding-intelligence-machine)  
+[Apple-Like](https://david-smith.org/blog/2026/06/03/apple-like/)  
+[App Store Review Guidelines — App Removals](https://developer.apple.com/app-store/review/guidelines/#design)
+
 # June 5, 2026
 [Swift News - YouTube Video](https://youtu.be/v93pF-zmU_M)  
 
