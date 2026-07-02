@@ -2,6 +2,15 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about every other week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+# July 2, 2026
+[Swift News - YouTube Video](https://youtu.be/j6wtNLeXQQI)  
+
+[iOS 27, Your App, and Siri](https://www.swiftjectivec.com/siri-ai-for-ios027/)  
+[Check Out Bitrig](https://bitrig.com/?utm_source=swiftnews_yt)  
+[From Size Class to Available Space: Is horizontalSizeClass Still Reliable?](https://fatbobman.com/en/posts/from-size-class-to-available-space/)  
+[Move Your Rating Prompt Out of Onboarding — or Risk Rejection](https://www.revenuecat.com/blog/engineering/dont-prompt-ratings-during-onboarding/)  
+[SkeletonView](https://swiftpackageindex.com/Juanpe/SkeletonView)
+
 # June 17, 2026
 [Swift News - YouTube Video](https://youtu.be/SY9NqW6z8gs)  
 
