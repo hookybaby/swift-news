@@ -2,6 +2,18 @@ Swift News is a YouTube show from [Sean Allen](https://youtube.com/seanallen "Se
 
 Swift News releases about every other week along with an email newsletter. [Subscribe](https://swiftnews.kit.com/newsletter) to the newsletter to get the latest Swift News in your inbox. This repository is home for all the links featured in Swift News.
 
+Swift News is brought to you by [Bitrig](https://bitrig.com/?utm_source=swiftnews_yt). Build native Swift apps with AI.
+
+# July 16, 2026
+[Swift News - YouTube Video](https://youtu.be/Q3tPGesg_e8)  
+
+[RevenueCat Ship-a-ton 2026](https://revenuecat-shipaton-2026.devpost.com)  
+[Kickstart Launch Retrospective](https://www.kickstart.tools/blog/kickstart-launch-retrospective)  
+[iOS 27 SDK: 3 Major Requirements That Might Break Your App](https://blog.makwanbk.com/ios-27-sdk-3-major-requirements-that-migh-break-your-app)  
+[Foundation Models Utilities](https://github.com/apple/foundation-models-utilities)  
+[anyAppleOS](https://livsycode.com/swift/swift-6-4-adds-anyappleos-for-cleaner-availability-checks/)  
+[Build for Dynamic Type](https://mobilea11y.com/blog/good-dynamic-type/)
+
 # July 2, 2026
 [Swift News - YouTube Video](https://youtu.be/j6wtNLeXQQI)  
 
